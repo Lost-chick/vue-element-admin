@@ -1,5 +1,5 @@
 <template>
-  <el-button type="primary">el-button</el-button>
+  <router-view />
 </template>
 
 <script>
@@ -16,6 +16,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
