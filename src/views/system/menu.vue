@@ -1,16 +1,11 @@
 <template>
-  <router-view />
+  <div>
+    <h1>Menu page</h1>
+  </div>
 </template>
-
 <script>
 
 export default {
-  name: 'App'
+  name: 'Menu'
 }
 </script>
-
-<style>
-#app {
-
-}
-</style>
